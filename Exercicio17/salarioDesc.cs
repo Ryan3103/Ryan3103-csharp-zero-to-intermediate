@@ -12,7 +12,6 @@ bonus = 0.10;
 else
 bonus = 0.05;
 
-```
 salarioFinal = salario + bonus;
 
 Console.WriteLine("Salario: " + salario);
