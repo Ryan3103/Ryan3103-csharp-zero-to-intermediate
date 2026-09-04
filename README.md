@@ -7,7 +7,7 @@ C# & .NET
 - [x] Variáveis, Tipos de Dados e Operadores
 - [x] Estruturas Condicionais (`if`, `else`, `switch`)
 - [x] Estruturas de Repetição (`for`, `while`, `foreach`)
-- [x] Manipulação de Strings e Arrays
+- [ ] Manipulação de Strings e Arrays
 - [ ] Tratamento de Exceções (`try/catch`)
 - [ ] Coleções (`List`, `Dictionary`, `HashSet`)
 
