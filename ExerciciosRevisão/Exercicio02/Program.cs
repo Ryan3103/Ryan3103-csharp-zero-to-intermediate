@@ -1,1 +1,1 @@
-﻿Console.WriteLine("oi, Word");
+﻿Console.WriteLine("oi, Wor");
