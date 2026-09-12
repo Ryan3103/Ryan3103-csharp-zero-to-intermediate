@@ -1,14 +1,11 @@
-﻿int [] numeros = new int [5];
+﻿int [] numeros = new int[5];
 
-for (int i = 0; i < 5; i++)
-{
-    Console.WriteLine("Digite um número: ");
-    numeros[i] = int.Parse(Console.ReadLine());
-}
+numeros[0] = 10;
+numeros[1] = 20;
+numeros[2] = 30;
+numeros[3] = 40;
+numeros[4] = 50;
 
-Console.WriteLine("Resultado: ");
-
-foreach (int numero in numeros)
-{
-    Console.WriteLine(numero);
-}
+Console.WriteLine(numeros[0]);
+Console.WriteLine(numeros[2]);
+Console.WriteLine(numeros[4]);
