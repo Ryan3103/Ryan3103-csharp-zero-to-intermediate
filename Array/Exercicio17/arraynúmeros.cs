@@ -24,6 +24,7 @@ for (int i = 0; i < 5; i++)
         contador2++;
     }
 }
+
 if (contador1 > contador2)
 {
     Console.WriteLine($"Array 1 tem mais pares: {contador1}");
