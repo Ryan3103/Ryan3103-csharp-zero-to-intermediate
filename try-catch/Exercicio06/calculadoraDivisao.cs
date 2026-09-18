@@ -6,7 +6,7 @@
     Console.WriteLine("Digite o segundo número: ");
     int numero2 = int.Parse(Console.ReadLine());
 
-    double divisao = numero1 / numero2;
+    double divisao = (double)numero1 / numero2;
 
     Console.WriteLine($"Resultado: {divisao}");
 }
