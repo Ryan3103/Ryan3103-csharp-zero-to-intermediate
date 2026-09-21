@@ -1,6 +1,7 @@
 ﻿Console.WriteLine("Digite uma frase: ");
 string frase = Console.ReadLine();
 
+
 Console.WriteLine("Digite uma palavra para procurar: ");
 string palavra = Console.ReadLine();
 
