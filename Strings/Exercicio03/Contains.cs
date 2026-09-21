@@ -8,7 +8,7 @@ if (frase.Contains(palavra))
 {
     Console.WriteLine($"A palavra foi encontrada!");
 }
-else 
+else
 {
-Console.WriteLine("A palavra não foi encontrada!");
+    Console.WriteLine("A palavra não foi encontrada!");
 }

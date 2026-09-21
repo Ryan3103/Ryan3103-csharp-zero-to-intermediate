@@ -8,7 +8,7 @@ C# & .NET
 - [x] Estruturas Condicionais (`if`, `else`, `switch`)
 - [x] Estruturas de Repetição (`for`, `while`, `foreach`)
 - [x] Manipulação de Strings e Arrays
-- [ ] Tratamento de Exceções (`try/catch`)
+- [x] Tratamento de Exceções (`try/catch`)
 - [ ] Coleções (`List`, `Dictionary`, `HashSet`)
 
 2. Orientação a Objetos (POO)
