@@ -9,7 +9,7 @@ C# & .NET
 - [x] Estruturas de Repetição (`for`, `while`, `foreach`)
 - [x] Manipulação de Strings e Arrays
 - [x] Tratamento de Exceções (`try/catch`)
-- [x] Coleções (`List`, `Dictionary`, `HashSet`)
+- [ ] Coleções (`List`, `Dictionary`, `HashSet`)
 
 2. Orientação a Objetos (POO)
 - [ ] Classes, Objetos, Métodos e Atributos
