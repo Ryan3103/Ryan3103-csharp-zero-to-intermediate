@@ -4,6 +4,5 @@
 
     return dobro;
 }
-
 int resultado = Dobrar(5);
-System.Console.WriteLine(resultado);
+Console.WriteLine($"Resultado: {resultado}");
