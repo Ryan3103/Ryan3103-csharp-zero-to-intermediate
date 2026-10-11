@@ -5,6 +5,21 @@ class Funcionario
     internal string departamento;
     protected double bonus;
 
+    public double Salario
+    {
+        get
+        {
+            return salario;
+        }
+        set
+        {
+            if (value > 0)
+            {
+                salario = value;
+            }
+        }
+    }
+
     public Funcionario(string nome, double salario, string departamento)
     {
         this.nome = nome;
