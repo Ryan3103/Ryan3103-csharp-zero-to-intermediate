@@ -20,15 +20,19 @@ class Funcionario
         }
     }
 
+    public string Cargo { get; set; }
+
     public Funcionario(string nome, double salario, string departamento)
     {
         this.nome = nome;
-        this.salario = salario;
+        Salario = salario;
         this.departamento = departamento;
     }
 
+
+
     public void MostrarDados()
     {
-        Console.WriteLine($"Nome: {nome}, Salario: {salario}, Departamento: {departamento}");
+        Console.WriteLine($"Nome: {nome}, Salario: {salario}, Cargo: {Cargo}");
     }
 }
