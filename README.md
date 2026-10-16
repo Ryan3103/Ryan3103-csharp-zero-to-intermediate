@@ -12,9 +12,9 @@ C# & .NET
 - [x] Coleções (`List`, `Dictionary`, `HashSet`)
 
 2. Orientação a Objetos (POO)
-- [ ] Classes, Objetos, Métodos e Atributos
-- [ ] Encapsulamento, Modificadores de Acesso e Properties
-- [ ] Herança e Polimorfismo
+- [x] Classes, Objetos, Métodos e Atributos
+- [x] Encapsulamento, Modificadores de Acesso e Properties
+- [x] Herança e Polimorfismo
 - [ ] Abstração, Classes Abstratas e Interfaces
 - [ ] Princípios SOLID
 

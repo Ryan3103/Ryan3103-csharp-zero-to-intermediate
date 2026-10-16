@@ -18,7 +18,6 @@ class Usuario
             }
         }
     }
-
     public int Idade
     {
         get
@@ -33,7 +32,6 @@ class Usuario
             }
         }
     }
-
     public string Email
     {
         get
@@ -48,7 +46,6 @@ class Usuario
             }
         }
     }
-
     public void MostrarDados()
     {
         Console.WriteLine($"Nome: {nome}");

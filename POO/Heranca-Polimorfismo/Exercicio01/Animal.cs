@@ -1,6 +1,6 @@
 class Animal
 {
-    public string Nome {get; protected set;} 
+    public string Nome {get; protected set;}
 
     public Animal(string nome)
     {
