@@ -1,0 +1,4 @@
+interface INotificavel
+{
+    void EnviarNotificacao();
+}
