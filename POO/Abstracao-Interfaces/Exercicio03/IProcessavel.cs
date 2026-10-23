@@ -1,0 +1,4 @@
+interface IProcessavel
+{
+    void Processar();
+}
