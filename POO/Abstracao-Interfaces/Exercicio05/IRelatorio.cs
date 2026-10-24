@@ -1,0 +1,4 @@
+interface IRelatorio
+{
+    void GerarRelatorio();
+}
