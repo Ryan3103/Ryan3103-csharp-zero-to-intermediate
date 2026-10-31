@@ -1,8 +1,7 @@
-﻿Notebook notebook1 = new Notebook("Notebook Dell", 3500m, 16);
+﻿Equipamento notebook = new Notebook ("Notebook lenovo", 3500m, 16);
 
-notebook1.ExibirInformacoes();
+notebook.ExibirInformacoes();
 
-Console.WriteLine();
-Smartphone smarphone1 = new Smartphone("Smartphone Samsung", 2200m, 256);
+Equipamento Smartphone = new Smartphone("Iphone", 5000m, 256);
 
-smarphone1.ExibirInformacoes();
+Smartphone.ExibirInformacoes();
