@@ -1,0 +1,4 @@
+interface IFax
+{
+    void EnviarFax();
+}

@@ -1,0 +1,4 @@
+interface IDigitalizadora
+{
+    void Digitalizar();
+}

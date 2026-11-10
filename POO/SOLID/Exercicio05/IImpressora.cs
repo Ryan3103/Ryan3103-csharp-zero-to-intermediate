@@ -1,0 +1,4 @@
+interface IImpressora
+{
+    void Imprimir();
+}
